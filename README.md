@@ -1,5 +1,5 @@
 ## UFRGS - Instituto de Informática - Mestrado Acadêmico
-- Disciplina: Aprendizagem de Máquina - CMP263
+- Trabalho da Disciplina: Aprendizagem de Máquina - CMP263
 - 2023/1
 - Alunas: Caroline Reis, Dieine Bernieri Schiavon
 
