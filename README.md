@@ -1,3 +1,8 @@
+## UFRGS - Instituto de Informática - Mestrado Acadêmico
+- Disciplina: Aprendizagem de Máquina - CMP263
+- 2023/1
+- Alunas: Caroline Reis, Dieine Bernieri Schiavon
+
 # Autism Screening Adult
 [UCL](https://archive.ics.uci.edu/dataset/426/autism+screening+adult)
 
